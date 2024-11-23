@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Languages\\C#\\Add Two Numbers\\Add Two Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAB0387-B8A4-4116-A350-EF0F45FE7388}|Add Two Numbers\\Add Two Numbers.csproj|d:\\programming languages\\c#\\add two numbers\\add two numbers\\add two numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAB0387-B8A4-4116-A350-EF0F45FE7388}|Add Two Numbers\\Add Two Numbers.csproj|solutionrelative:add two numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming Languages\\C#\\Add Two Numbers\\Add Two Numbers\\Add Two Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "Add Two Numbers\\Program.cs",
+              "ToolTip": "D:\\Programming Languages\\C#\\Add Two Numbers\\Add Two Numbers\\Add Two Numbers\\Program.cs",
+              "RelativeToolTip": "Add Two Numbers\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:47:28.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

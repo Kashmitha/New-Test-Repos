@@ -1,0 +1,14 @@
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\bin\Debug\net8.0\Multi Dimensional Array.exe
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\bin\Debug\net8.0\Multi Dimensional Array.deps.json
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\bin\Debug\net8.0\Multi Dimensional Array.runtimeconfig.json
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\bin\Debug\net8.0\Multi Dimensional Array.dll
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\bin\Debug\net8.0\Multi Dimensional Array.pdb
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\obj\Debug\net8.0\Multi Dimensional Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\obj\Debug\net8.0\Multi Dimensional Array.AssemblyInfoInputs.cache
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\obj\Debug\net8.0\Multi Dimensional Array.AssemblyInfo.cs
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\obj\Debug\net8.0\Multi Dimensional Array.csproj.CoreCompileInputs.cache
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\obj\Debug\net8.0\Multi Dimensional Array.dll
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\obj\Debug\net8.0\refint\Multi Dimensional Array.dll
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\obj\Debug\net8.0\Multi Dimensional Array.pdb
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\obj\Debug\net8.0\Multi Dimensional Array.genruntimeconfig.cache
+D:\Programming Languages\C#\Arrays\Multi Dimensional Array\Multi Dimensional Array\obj\Debug\net8.0\ref\Multi Dimensional Array.dll

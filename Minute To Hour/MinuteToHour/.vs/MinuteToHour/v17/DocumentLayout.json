@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Languages\\C#\\Minute To Hour\\MinuteToHour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA807DA-6843-4E64-8DD5-E00FDF9A2328}|MinuteToHour\\MinuteToHour.csproj|d:\\programming languages\\c#\\minute to hour\\minutetohour\\minutetohour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA807DA-6843-4E64-8DD5-E00FDF9A2328}|MinuteToHour\\MinuteToHour.csproj|solutionrelative:minutetohour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming Languages\\C#\\Minute To Hour\\MinuteToHour\\MinuteToHour\\Program.cs",
+              "RelativeDocumentMoniker": "MinuteToHour\\Program.cs",
+              "ToolTip": "D:\\Programming Languages\\C#\\Minute To Hour\\MinuteToHour\\MinuteToHour\\Program.cs",
+              "RelativeToolTip": "MinuteToHour\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:39:30.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

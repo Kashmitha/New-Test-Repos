@@ -1,0 +1,26 @@
+using System;
+
+abstract class Shape
+{
+	public abstract void Draw();
+}
+class circle: Shape
+{
+	public override void Draw()
+	{
+		Console.WriteLine("This is circle");
+	}
+}
+class rectangle: Shape
+{
+	public override void Draw()
+	{
+		Console.WriteLine("This is rectangle");
+	}
+}
+
+public static void Main(String[] args)
+{
+	Shape a = new circle();
+	a.Draw();
+}

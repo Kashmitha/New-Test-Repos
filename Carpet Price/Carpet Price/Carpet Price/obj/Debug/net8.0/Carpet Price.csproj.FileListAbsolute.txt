@@ -1,0 +1,14 @@
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\bin\Debug\net8.0\Carpet Price.exe
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\bin\Debug\net8.0\Carpet Price.deps.json
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\bin\Debug\net8.0\Carpet Price.runtimeconfig.json
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\bin\Debug\net8.0\Carpet Price.dll
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\bin\Debug\net8.0\Carpet Price.pdb
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\obj\Debug\net8.0\Carpet Price.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\obj\Debug\net8.0\Carpet Price.AssemblyInfoInputs.cache
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\obj\Debug\net8.0\Carpet Price.AssemblyInfo.cs
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\obj\Debug\net8.0\Carpet Price.csproj.CoreCompileInputs.cache
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\obj\Debug\net8.0\Carpet Price.dll
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\obj\Debug\net8.0\refint\Carpet Price.dll
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\obj\Debug\net8.0\Carpet Price.pdb
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\obj\Debug\net8.0\Carpet Price.genruntimeconfig.cache
+D:\Programming Languages\C#\Carpet Price\Carpet Price\Carpet Price\obj\Debug\net8.0\ref\Carpet Price.dll

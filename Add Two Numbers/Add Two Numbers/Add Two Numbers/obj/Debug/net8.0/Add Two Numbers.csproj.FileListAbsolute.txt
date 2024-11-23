@@ -1,0 +1,14 @@
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.exe
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.deps.json
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.runtimeconfig.json
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.dll
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\bin\Debug\net8.0\Add Two Numbers.pdb
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.AssemblyInfoInputs.cache
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.AssemblyInfo.cs
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.csproj.CoreCompileInputs.cache
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.dll
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\obj\Debug\net8.0\refint\Add Two Numbers.dll
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.pdb
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\obj\Debug\net8.0\Add Two Numbers.genruntimeconfig.cache
+D:\Programming Languages\C#\Add Two Numbers\Add Two Numbers\Add Two Numbers\obj\Debug\net8.0\ref\Add Two Numbers.dll

@@ -1,0 +1,14 @@
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\bin\Debug\net8.0\Random Parameters.exe
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\bin\Debug\net8.0\Random Parameters.deps.json
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\bin\Debug\net8.0\Random Parameters.runtimeconfig.json
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\bin\Debug\net8.0\Random Parameters.dll
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\bin\Debug\net8.0\Random Parameters.pdb
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\obj\Debug\net8.0\Random Parameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\obj\Debug\net8.0\Random Parameters.AssemblyInfoInputs.cache
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\obj\Debug\net8.0\Random Parameters.AssemblyInfo.cs
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\obj\Debug\net8.0\Random Parameters.csproj.CoreCompileInputs.cache
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\obj\Debug\net8.0\Random Parameters.dll
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\obj\Debug\net8.0\refint\Random Parameters.dll
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\obj\Debug\net8.0\Random Parameters.pdb
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\obj\Debug\net8.0\Random Parameters.genruntimeconfig.cache
+D:\Programming Languages\C#\Random Para\Random Parameters\Random Parameters\obj\Debug\net8.0\ref\Random Parameters.dll
